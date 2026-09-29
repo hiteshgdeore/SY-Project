@@ -1,7 +1,7 @@
 # Statistical Analysis of Monthly Expenses of Hostelers
 # B.Sc. (Mathematical Sciences) II Field Project 2025-26, KBCNMU Jalgaon
 #
-# Chi-square test of independence (Gender vs each variable), grouped bar charts,
+# Chi-square test of independence (Gender vs each variable), groped bar charts,
 # and frequency tables. Base R only, no packages needed.
 #
 # Usage:  Rscript analysis.R      (or source("analysis.R") in RStudio)
